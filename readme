@@ -1,11 +1,17 @@
-## Projem Hakkında
+
+# Payments App
+
+My first React Native project aimed to integrate a set of modern technologies. The application included Firebase for database operations and leveraged Redux Toolkit for state management. Additionally, reusable components were created and libraries such as Formik and Yup were used for form processing. I additionally used date/time picker and notify libraries to improve user experience.
+
+
+
+
+## Eksikler
 
 This project focuses on Async operations, Firebase database operations, and rendering processes. Currently, there are issues with the rendering process when a payment is successfully made.
 
-## EditModal
-
 The EditModal component allows users to edit specific content but is currently non-functional and will require further development.
 
-## Çoklu Dil Desteği
-
 Multi-language support will be integrated into the project in the near future. This feature will enable users to switch between different language options, enhancing the project's usability.
+
+  
