@@ -1,1 +1,11 @@
-//Tarih seçimi yaparken bugünün tarihinden sonrası seçilme ise hata verilecek
+## Projem Hakkında
+
+Bu proje, Async işlemler,firebase ile veri tabanı işlemleri ve render süreçleri üzerine odaklanmış bir uygulamadır. Şu anda, ödeme işlemi başarılı olduğunda render işleminde yaşanan bazı problemler bulunmaktadır.
+
+## EditModal
+
+EditModal bileşeni, kullanıcıların belirli içerikleri düzenlemelerine olanak tanıyan bir özelliktir. Şu anda projede eklenmiş durumdadır, ancak işlevsizdir ve ileriye dönük geliştirme gerektirmektedir.
+
+## Çoklu Dil Desteği
+
+Yakın gelecekte projeye çoklu dil desteği entegre edilecektir. Kullanıcıların farklı dil seçenekleri arasında geçiş yapabilmesini sağlayacak bu özellik, projenin kullanılabilirliğini artıracaktır.
