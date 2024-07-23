@@ -6,7 +6,7 @@ My first React Native project aimed to integrate a set of modern technologies. T
 
 
 
-## Eksikler
+## Shortcomings
 
 This project focuses on Async operations, Firebase database operations, and rendering processes. Currently, there are issues with the rendering process when a payment is successfully made.
 
