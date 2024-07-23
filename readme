@@ -1,11 +1,11 @@
 ## Projem Hakkında
 
-Bu proje, Async işlemler,firebase ile veri tabanı işlemleri ve render süreçleri üzerine odaklanmış bir uygulamadır. Şu anda, ödeme işlemi başarılı olduğunda render işleminde yaşanan bazı problemler bulunmaktadır.
+This project focuses on Async operations, Firebase database operations, and rendering processes. Currently, there are issues with the rendering process when a payment is successfully made.
 
 ## EditModal
 
-EditModal bileşeni, kullanıcıların belirli içerikleri düzenlemelerine olanak tanıyan bir özelliktir. Şu anda projede eklenmiş durumdadır, ancak işlevsizdir ve ileriye dönük geliştirme gerektirmektedir.
+The EditModal component allows users to edit specific content but is currently non-functional and will require further development.
 
 ## Çoklu Dil Desteği
 
-Yakın gelecekte projeye çoklu dil desteği entegre edilecektir. Kullanıcıların farklı dil seçenekleri arasında geçiş yapabilmesini sağlayacak bu özellik, projenin kullanılabilirliğini artıracaktır.
+Multi-language support will be integrated into the project in the near future. This feature will enable users to switch between different language options, enhancing the project's usability.
